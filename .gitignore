@@ -1,0 +1,8 @@
+# Build output (one folder per CMake preset)
+build/
+
+# Editors and tools
+.cache/
+.vscode/
+.idea/
+*.swp
